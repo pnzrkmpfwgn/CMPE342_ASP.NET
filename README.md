@@ -2,10 +2,6 @@
 
 This is master branch where I will show you to create a basic project since Visual Studio 2019 is little bit tricky tool to use especially for beginners.
 
-You can see different tutorials for CMPE342 in this repository. You can find those in other branches.
-![3](https://user-images.githubusercontent.com/61189367/175990059-7beed891-2b67-4396-9f93-280999054d83.JPG)
-Click here and find the needed tutorials.
-
 ## Creating a project with Web Form
 
 ![1](https://user-images.githubusercontent.com/61189367/175990239-7d51325b-806a-454f-842f-155ef198c754.JPG)
